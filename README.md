@@ -24,3 +24,6 @@ Além disso, o ChatGPT é extremamente versátil e pode ser utilizado em diferen
 Além disso, há preocupações relacionadas à privacidade e segurança dos dados, uma vez que as interações com o ChatGPT podem envolver o compartilhamento de informações pessoais.
 Apesar desses desafios, o ChatGPT continua sendo uma ferramenta extremamente útil e poderosa que pode facilitar o dia a dia das pessoas e proporcionar novas oportunidades de aprendizado e crescimento.
 Com o avanço da tecnologia e o aprimoramento contínuo do ChatGPT, é possível que seus benefícios superem cada vez mais seus pontos negativos, tornando-o uma parte ainda mais integrada e indispensável na vida das pessoas.
+<br> 
+
+<img src="./Default_menina_usando_computador_com_IA_2024_animaao_3.jpg" alt="" width="600" hight= "500">
