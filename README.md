@@ -9,11 +9,11 @@ Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de
 # O Papel do ChatGPT na Vida Cotidiana: Benefícios e Desafios<br>
 
 ## 📒 Descrição<br>
-Texto sobre como o ChatGPT se tornou um elemento essencial no cotidiano de muitas pessoas, oferecendo assistência em uma variedade de situações. <br>
+Texto sobre como o ChatGPT se tornou um elemento essencial no cotidiano de muitas pessoas, oferecendo assistência em varias situações. <br>
 
 ## 🤖 Tecnologias Utilizadas<br>
-IA Generativa ChatGPT para roteirização;<br>
-IA Generativa Leonardo AI para criar a arte visual;<br>
+IA Generativa ChatGPT para roteirização.<br>
+IA Generativa Leonardo AI para criar a arte visual.<br>
 
 ## 🧐 Processo de Criação<br>
 Utilizei o "ChatGPT" para ajudar a criar uma pesquisa sobre o papel do chatgpt na vida das pessoas atualmente. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para a pesquisa.<br>
