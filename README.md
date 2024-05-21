@@ -26,4 +26,4 @@ Apesar desses desafios, o ChatGPT continua sendo uma ferramenta extremamente út
 Com o avanço da tecnologia e o aprimoramento contínuo do ChatGPT, é possível que seus benefícios superem cada vez mais seus pontos negativos, tornando-o uma parte ainda mais integrada e indispensável na vida das pessoas.
 <br> 
 
-<img src="./Default_menina_usando_computador_com_IA_2024_animaao_3.jpg" alt="" width="600" hight= "500">
+<img src="IAfoto.jpg" alt="" width="600" hight= "500">
